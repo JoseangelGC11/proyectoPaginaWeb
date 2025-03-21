@@ -2,18 +2,18 @@
 <channel>
 <!-- Prólogo -->
 <title>Portfolio personal de José Ángel García Cuevas</title>
-<link>https://joseangelgc11.github.io/proyectoPaginaWeb</link>
-<description>Portfolio personal de José Ángel García Cuevas</description>
+<link>https://joseangelgc11.github.io/proyectoPaginaWeb/</link>
+<description>Actualizaciones y proyectos recientes de José Ángel García Cuevas</description>
 <category>biografia/proyectos/estudios</category>
 <copyright>José Ángel García Cuevas</copyright>
 <image>
 <url>https://joseangelgc11.github.io/proyectoPaginaWeb/logohead.png</url>
 <title>Portfolio personal de José Ángel García Cuevas</title>
-<link>https://joseangelgc11.github.io/proyectoPaginaWeb</link>
+<link>https://joseangelgc11.github.io/proyectoPaginaWeb/</link>
 <width>30</width>
 <height>30</height>
 </image>
-<language>es-es</language>
+<language>es</language>
 <lastBuildDate>Fri, 21 Mar 2025 13:50:00 +0100</lastBuildDate>
 <webMaster>j.a2001n.11@gmail.com</webMaster>
 <!--  Noticias del canal  -->
@@ -24,6 +24,7 @@
 <author>j.a2001n.11@gmail.com</author>
 <category>biografia</category>
 <pubDate>Fri, 21 Mar 2025 13:50:00 +0100</pubDate>
+<guid>https://joseangelgc11.github.io/proyectoPaginaWeb/index.html</guid>
 </item>
 <item>
 <title>Proyectos recientes</title>
@@ -32,6 +33,7 @@
 <author>j.a2001n.11@gmail.com</author>
 <category>proyectos</category>
 <pubDate>Fri, 21 Mar 2025 13:50:00 +0100</pubDate>
+<guid>https://joseangelgc11.github.io/proyectoPaginaWeb/proyectos.html</guid>
 </item>
 <item>
 <title>Estudios y formación</title>
@@ -40,6 +42,7 @@
 <author>j.a2001n.11@gmail.com</author>
 <category>estudios</category>
 <pubDate>Fri, 21 Mar 2025 13:50:00 +0100</pubDate>
+<guid>https://joseangelgc11.github.io/proyectoPaginaWeb/estudios.html</guid>
 </item>
 </channel>
 </rss>
