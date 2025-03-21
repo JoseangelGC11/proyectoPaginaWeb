@@ -1,0 +1,23 @@
+﻿<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://joseangelgc11.github.io/proyectoPaginaWeb/">
+<id>https://joseangelgc11.github.io/proyectoPaginaWeb/</id>
+<title>Portfolio personal</title>
+<updated>2025-03-21T13:50:00+01:00</updated>
+<link rel="alternate" href="https://joseangelgc11.github.io/proyectoPaginaWeb/atom.xml"/>
+<author>
+<name>José Ángel García Cuevas</name>
+<email>j.a2001n.11@gmaill.com</email>
+</author>
+<category term="Biografia"/>
+<logo>https://joseangelgc11.github.io/proyectoPaginaWeb/logohead.png</logo>
+<entry>
+<id>https://joseangelgc11.github.io/proyectoPaginaWeb/index.html</id>
+<title>Información sobre mi</title>
+<update>2025-03-21T13:50:00+01:00</update>
+<author>
+<name>José Ángel García Cuevas</name>
+<email>j.a2001n.11@gmaill.com</email>
+</author>
+<summary> En este artículo encontraras información sobre mi personalidad y formas de trabajar</summary>
+<link rel="alternate" href="https://joseangelgc11.github.io/proyectoPaginaWeb/index.html"/>
+</entry>
+</feed>
