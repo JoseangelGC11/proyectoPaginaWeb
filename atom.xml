@@ -1,6 +1,6 @@
 ﻿<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://joseangelgc11.github.io/proyectoPaginaWeb/">
     <id>https://joseangelgc11.github.io/proyectoPaginaWeb/</id>
-    <title>Portfolio personal</title>
+    <title>Portfolio personal de José Ángel García Cuevas</title>
     <updated>2025-03-21T13:50:00+01:00</updated>
     <link rel="self" href="https://joseangelgc11.github.io/proyectoPaginaWeb/atom.xml"/>
     <author>
@@ -9,6 +9,7 @@
     </author>
     <category term="Biografia"/>
     <logo>https://joseangelgc11.github.io/proyectoPaginaWeb/logohead.png</logo>
+    
     <entry>
         <id>https://joseangelgc11.github.io/proyectoPaginaWeb/index.html</id>
         <title>Información sobre mi</title>
@@ -19,5 +20,29 @@
         </author>
         <summary>En este artículo encontrarás información sobre mi personalidad y formas de trabajar</summary>
         <link rel="alternate" href="https://joseangelgc11.github.io/proyectoPaginaWeb/index.html"/>
+    </entry>
+    
+    <entry>
+        <id>https://joseangelgc11.github.io/proyectoPaginaWeb/proyectos.html</id>
+        <title>Proyectos recientes</title>
+        <updated>2025-03-21T13:50:00+01:00</updated>
+        <author>
+            <name>José Ángel García Cuevas</name>
+            <email>j.a2001n.11@gmail.com</email>
+        </author>
+        <summary>Descripción de los proyectos recientes en los que he trabajado</summary>
+        <link rel="alternate" href="https://joseangelgc11.github.io/proyectoPaginaWeb/proyectos.html"/>
+    </entry>
+    
+    <entry>
+        <id>https://joseangelgc11.github.io/proyectoPaginaWeb/estudios.html</id>
+        <title>Estudios y formación</title>
+        <updated>2025-03-21T13:50:00+01:00</updated>
+        <author>
+            <name>José Ángel García Cuevas</name>
+            <email>j.a2001n.11@gmail.com</email>
+        </author>
+        <summary>Información sobre mis estudios y formación académica</summary>
+        <link rel="alternate" href="https://joseangelgc11.github.io/proyectoPaginaWeb/estudios.html"/>
     </entry>
 </feed>
