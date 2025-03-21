@@ -365,6 +365,18 @@ footer .icons a:hover img.social-icon {
     filter: grayscale(0%) contrast(200%);
 }
 
+.footer-icons {
+    display: flex;
+    justify-content: center; /* Centra los iconos horizontalmente */
+    gap: 10px; /* Espacio entre los iconos */
+    margin-top: 10px; /* Espacio superior */
+}
+
+.footer-icons img {
+    width: 24px; /* Ancho de las imágenes */
+    height: 24px; /* Alto de las imágenes */
+}
+
 /* Sección de Presentación */
 #presentation {
     position: relative;
